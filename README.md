@@ -1,4 +1,3 @@
-# github-command
-All git command
-<br>
-Author - Ajaj Alam
+This the github command files
+Author : Ajaj Alam
+email: alamajaj813@gmail.com
